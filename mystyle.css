@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(31 41 55);
+    font-size: 1.875rem;
+    font-weight: 600;
+    line-height: 2.25rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2.5rem;
+    text-align: center;
+    background-color: #FF5733;
+}
+
+ol {
+    color:rgb(31 41 55);
+    text-align: center;
+}
