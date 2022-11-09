@@ -31,3 +31,11 @@ li {
     background-color: paleturquoise;
     color: black;
 }
+
+body {
+    background-image: url("../odin-recipes/images/background.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 19em;
+}
