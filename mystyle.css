@@ -3,9 +3,6 @@ h1 {
     font-size: 1.875rem;
     font-weight: 600;
     line-height: 2.25rem;
-    margin-left: auto;
-    margin-right: auto;
-    padding-bottom: 2.5rem;
     text-align: center;
     background-color: #FF5733;
 }
@@ -13,4 +10,24 @@ h1 {
 ol {
     color:rgb(31 41 55);
     text-align: center;
+}
+
+.head-box {
+    border: 5px black dotted;
+    margin-top 20px;
+    margin-right: 25em;
+    margin-bottom: 20px;
+    margin-left: 25em;
+    padding: 8px;
+}
+
+li {
+    margin-top: 8px;
+    margin-bottom: 40px;
+    margin-left: 49em;
+    margin-right: 49em;
+    margin-bottom: 10px;
+    border: 2px solid;
+    background-color: paleturquoise;
+    color: black;
 }
